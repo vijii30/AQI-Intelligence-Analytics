@@ -3,7 +3,7 @@
 **AI-powered Chennai vs India Air Quality Analytics & Forecasting Dashboard** — combining machine learning forecasts, a RAG-powered Gemini chatbot, conversation memory, and a voice assistant in one Streamlit app.
 
 <p align="left">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3.13.15-blue?logo=python&logoColor=white">
   <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white">
   <img alt="Gemini" src="https://img.shields.io/badge/Google%20Gemini-API-8E75B2?logo=googlegemini&logoColor=white">
   
