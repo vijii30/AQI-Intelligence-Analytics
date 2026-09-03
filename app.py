@@ -26,12 +26,11 @@ from google.genai import types
 # PROJECT PATHS
 # ============================================================
 
-PROJECT = Path("/content/AQI_PROJECT")
+PROJECT = Path(__file__).parent
 
-OUTPUT_DIR = PROJECT / "outputs"
-RAG_DIR = PROJECT / "rag"
-MODEL_DIR = PROJECT / "models"
-
+OUTPUT_DIR = PROJECT
+RAG_DIR = PROJECT
+MODEL_DIR = PROJECT
 
 # ============================================================
 # STREAMLIT CONFIGURATION
