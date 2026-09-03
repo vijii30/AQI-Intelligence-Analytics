@@ -25,7 +25,6 @@ from google.genai import types
 # ============================================================
 # PROJECT PATHS
 # ============================================================
-
 PROJECT = Path(__file__).parent
 
 OUTPUT_DIR = PROJECT
