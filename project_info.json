@@ -1,0 +1,24 @@
+{
+    "project_name": "Chennai vs India Air Quality Analytics",
+    "version": "1.0",
+    "machine_learning": {
+        "chennai": "Gradient Boosting Regressor",
+        "india": "Linear Regression"
+    },
+    "generative_ai": [
+        "RAG",
+        "Gemini",
+        "Conversational Memory"
+    ],
+    "voice_ai": [
+        "Speech-to-Text",
+        "Text-to-Speech",
+        "Speech-to-Speech"
+    ],
+    "dashboard": "Streamlit",
+    "rag_method": "TF-IDF",
+    "data_sources": [
+        "Chennai AQI Dataset",
+        "India AQI Dataset"
+    ]
+}
