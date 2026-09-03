@@ -25,17 +25,14 @@ The result is a dashboard that doesn't just visualize pollution data — it lets
 
 ## 📸 Screenshots
 
-> Add your own screenshots/GIFs here once the app is running locally (see [Usage](#-usage) below). Suggested shots: the main KPI dashboard, the Chennai vs India comparison chart, the AI chat panel, and the voice assistant in action.
-
-| Dashboard Overview | AI Chat Assistant |
+| Dashboard Overview | AI & Voice Assistant |
 |---|---|
-| ![Dashboard screenshot placeholder](docs/screenshots/dashboard.png) | ![Chatbot screenshot placeholder](docs/screenshots/chatbot.png) |
+| ![Dashboard Overview](docs/screenshots/dashboard.png) | ![Voice Assistant](docs/screenshots/voice.png) |
 
-| Forecast / Trend View | Voice Assistant |
+| AQI Analytics & Trends | City Comparison |
 |---|---|
-| ![Forecast screenshot placeholder](docs/screenshots/forecast.png) | ![Voice assistant screenshot placeholder](docs/screenshots/voice.png) |
+| ![AQI Analytics](docs/screenshots/forecast.png) | ![City Comparison](docs/screenshots/comparison.png) |
 
-<sub>💡 Tip: create a `docs/screenshots/` folder in the repo, drop your `.png`/`.gif` files there, and these table cells will render them automatically on GitHub.</sub>
 
 ---
 
